@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material - follow system settings</string>
+
+    <string name="prefs_keyboard_height_scale">Keyboard height scale</string>
+</resources>
